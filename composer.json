@@ -1,0 +1,16 @@
+{
+    "name": "yigit/css-atlas",
+    "authors": [
+        {
+            "name": "yigitoz",
+            "email": "yigitoztemel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "larapack/dd": "1.*"
+    },
+    "autoload": {
+        "psr-4": {"CssAtlas\\": "CssAtlas/"}
+    }
+}
