@@ -18,6 +18,17 @@ $atlas->generateImageAndCss('./dist');
 <table>
     <tr>
         <td>
+            dist/sprites.png
+        </td>
+        <td>
+            dist/sprites_brands_music.png
+        </td>
+        <td>
+            dist/sprites_brands_social.png
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img alt="dist/sprites.png" src="dist/sprites.png">
         </td>
         <td>
