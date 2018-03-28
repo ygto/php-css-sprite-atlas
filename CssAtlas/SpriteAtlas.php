@@ -19,7 +19,7 @@ class SpriteAtlas extends Sprite
                     width: %spx; 
                     height: %spx;
                     content:"";
-                    background-position: left 0 top %spx;
+                    background-position: left 0 top -%spx;
                     
                 }
                 ';

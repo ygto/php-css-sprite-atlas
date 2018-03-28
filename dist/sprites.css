@@ -1,0 +1,51 @@
+
+                .sprites_box:after {
+                    background-image: url('sprites.png');
+                    display: inline-block;
+                    width: 128px; 
+                    height: 128px;
+                    content:"";
+                    background-position: left 0 top -0px;
+                    
+                }
+                
+                .sprites_circle_dot:after {
+                    background-image: url('sprites.png');
+                    display: inline-block;
+                    width: 256px; 
+                    height: 256px;
+                    content:"";
+                    background-position: left 0 top -128px;
+                    
+                }
+                
+                .sprites_html5:after {
+                    background-image: url('sprites.png');
+                    display: inline-block;
+                    width: 225px; 
+                    height: 225px;
+                    content:"";
+                    background-position: left 0 top -384px;
+                    
+                }
+                
+                .sprites_logo:after {
+                    background-image: url('sprites.png');
+                    display: inline-block;
+                    width: 256px; 
+                    height: 256px;
+                    content:"";
+                    background-position: left 0 top -609px;
+                    
+                }
+                
+                .sprites_rockhonda:after {
+                    background-image: url('sprites.png');
+                    display: inline-block;
+                    width: 225px; 
+                    height: 225px;
+                    content:"";
+                    background-position: left 0 top -865px;
+                    
+                }
+                
